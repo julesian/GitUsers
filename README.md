@@ -1,6 +1,5 @@
 # GitUsers
-
-This project is developed with the following specifications:
+A simple iOS app that displays a list of GitHub users with offline caching, pagination and local search.
 
 # Language
 Swift
